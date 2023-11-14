@@ -1,0 +1,1 @@
+python train.py --dataset brooklyn_queens_aligned --cuda
